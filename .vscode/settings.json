@@ -1,0 +1,7 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "freertos.h": "c",
+        "main.h": "c"
+    }
+}
